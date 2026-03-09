@@ -52,4 +52,5 @@ Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 ```
 Imagem da topologia usada neste laboratório:
+
 ![topologia](Imagens/topologia.png)
