@@ -92,9 +92,13 @@ Após a instalação, a rede foi montada fisicamente no laboratório.
 
 ![Lista de clientes](Imagens/lista-de-clientes.jpg)
 
+![Impressora](Imagens/impressora.jpg)
+
 ### Testes:
 
 ![Ping](Imagens/ping.jpg)
+
+![Página de teste](Imagens/pagina-teste.jpg)
 
 ---
 
