@@ -90,7 +90,7 @@ Após a instalação, a rede foi montada fisicamente no laboratório.
 
 ![Roteador](Imagens/roteador.jpg)
 
-
+![Lista](Imagens/lista-clientes-dhcp.jpg)
 
 ![Impressora](Imagens/impressora.jpg)
 
