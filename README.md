@@ -85,11 +85,13 @@ Após a instalação, a rede foi montada físicamente no laboratório.
 
 Etapas realizadas:
 
-(fotos e capturas de tela relizadas durante o laboratório)
+![Roteador](Imagens/roteador.jpg)]
+
+![Lista de clientes](Imagens/lista-de-clientes.jpg)
 
 Testes:
 
-(fotos e capturas de tela relizadas durante o laboratório)
+![Ping](Imagens/ping.jpg)
 
 ---
 
