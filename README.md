@@ -19,7 +19,7 @@ O projeto será dividido em duas etapas:
 
 ---
 
-## 2. Equipamentos utilizados neste laboratório:
+## 2. Equipamentos utilizados neste laboratório
 
 - 3 notebooks
 - 1 roteador wireless com 1 porta WAN e 4 portas LAN
@@ -52,7 +52,7 @@ Router --> |LAN 2| PC2
 Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 ```
-Imagem da topologia usada neste laboratório:
+### Imagem da topologia usada neste laboratório:
 
 ![topologia](Imagens/topologia.png)
 
@@ -83,13 +83,13 @@ Gateway: 192.168.0.1
 
 Após a instalação, a rede foi montada físicamente no laboratório.
 
-Etapas realizadas:
+### Etapas realizadas:
 
 ![Roteador](Imagens/roteador.jpg)
 
 ![Lista de clientes](Imagens/lista-de-clientes.jpg)
 
-Testes:
+### Testes:
 
 ![Ping](Imagens/ping.jpg)
 
