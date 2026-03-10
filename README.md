@@ -1,10 +1,11 @@
-![GitHub License](https://img.shields.io/github/license/wilmeryf/lab-redes-01)
+![GitHub License](https://img.shields.io/github/license/wilmeryf/lab-redes-01?style=for-the-badge) -
+![Redes](https://img.shields.io/badge/Rede-Doméstica-blue?style=for-the-badge&logo=windows)
 
 # Laboratório de Redes 01 - Projeto de Rede Local
 
 **Unidade Curricular 5 - SENAC**
 
-> **Data:** 09/03/2026
+> **Data:** 04 a 09 de março de 2026
 
 **Aluno:** Anderson Wilmer Yapiticona Flores  
 **Professor:** José de Assis  
@@ -83,7 +84,7 @@ Gateway: 192.168.0.1
 
 ## 5. Implementação do laboratório real
 
-Após a instalação, a rede foi montada físicamente no laboratório.
+Após a instalação, a rede foi montada fisicamente no laboratório.
 
 ### Etapas realizadas:
 
